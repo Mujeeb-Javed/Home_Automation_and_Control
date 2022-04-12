@@ -1,1 +1,2 @@
-# Home_Automation_and_Control
+# Home Automation and Control
+## We made a Hardware and Software model to accurately represent how home automation is done .
